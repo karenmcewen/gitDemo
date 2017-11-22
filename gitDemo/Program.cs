@@ -10,6 +10,7 @@ namespace gitDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Howdy world!");
         }
     }
 }
